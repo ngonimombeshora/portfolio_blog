@@ -8,4 +8,4 @@ cta:
   ctaText: Know more
   ctaLink: /about
 ---
-Aspiring Mechatronics Engineer with a passion for electronics and oddly web development.
+Aspiring Mechatronics Engineer with a passion for electronics and web development.
