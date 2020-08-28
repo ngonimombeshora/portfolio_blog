@@ -1,9 +1,9 @@
 ---
 template: blog-post
-title: Extreme gaming extravaganza
+title: What is this site?
 slug: /gaming-extravaganza
 date: 2020-05-13 12:55
-description: How we scaled an Extreme gaming extravaganza
-featuredImage: /assets/fredrick-tendong-hvyepjyehdq-unsplash.jpg
+description: Site made using GatsbyJS and CMS
+featuredImage: /assets/img_3193.jpeg
 ---
-My Pretty White ShoesMy Pretty White ShoesMy Pretty White ShoesMy Pretty White ShoesMy Pretty White ShoesMy Pretty White ShoesMy Pretty White Shoes
+Visit my github page to learn more on how this site was made.
